@@ -1,1 +1,2 @@
-"# MindFan" 
+MindFan - This project is an intractive game using an EEG headset, an arduino microcontroller, PC fan, bluetooth adapter and some more peripheral components. By realxing or focusing, the user controls the speed of the PC fan and by that controls the height of a small ball in transparent cylinder.
+*The adapter is programmed by AT protocol in order to behave as "slave" to the bluethooth EEG headset.
